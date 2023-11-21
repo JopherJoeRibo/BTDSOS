@@ -191,13 +191,20 @@ h1 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   text-align: center;
-  padding: 0;
+  padding: 50px;
   margin: 0;
 }
 
 .history-title {
   font-size: 24px;
   padding-top: 10px;
+}
+
+.directory {
+  margin-left: 395px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #39afeb;
 }
 
 /* End of the Body */
