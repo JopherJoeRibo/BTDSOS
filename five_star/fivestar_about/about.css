@@ -161,7 +161,6 @@ button:hover {
 /* Start of the Body */
 .history {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background-color: #e0f4ff;
 }
 
 .history-container {
@@ -172,7 +171,6 @@ button:hover {
 .wrap-history {
   display: flex;
   text-align: center;
-  background-color: #e0f4ff;
 }
 
 .history-image {
@@ -201,7 +199,7 @@ h1 {
 }
 
 .directory {
-  margin-left: 395px;
+  margin-left: 380px;
   margin-top: 50px;
   margin-bottom: 50px;
   background-color: #39afeb;
